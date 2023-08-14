@@ -1,0 +1,74 @@
+@media (prefers-color-scheme: dark) {
+  .dark\:bg-neutral-800 {
+    --tw-bg-opacity: 1;
+    background-color: #d4ccbb;
+    color: #0b132a;
+  }
+  
+  .dark\:prose-light {
+    color: #0b132a;
+  }
+
+  .dark\:prose-light strong {
+    color: #0b132a;
+  }
+
+  .dark\:text-white {
+    --tw-text-opacity: 1;
+    color: #0b132a;
+  }
+
+  .dark\:text-neutral-400 {
+    --tw-text-opacity: 1;
+    color: #0b132a;
+  }
+
+  .dark\:text-neutral-500 {
+    --tw-text-opacity: 1;
+    color: #0b132a;
+  }
+
+  .text-neutral-500 {
+    --tw-text-opacity: 1;
+    color: #0b132a;
+  }
+  
+  .text-neutral-900 {
+    --tw-text-opacity: 1;
+    color: #0b132a;
+  }
+  
+  .text-neutral-800 {
+    --tw-text-opacity: 1;
+    color: #0b132a;
+  }
+  
+  .text-neutral-400 {
+    --tw-text-opacity: 1;
+    color: #0b132a;
+  }
+
+  .hover\:text-primary-500:hover {
+    --tw-text-opacity: 1;
+    color: #0b132a;
+  }
+
+}
+
+/* Colour Palette */
+/* light: #fbfaf8; */
+/* creme: #e6decd; */
+/* green: #698f40; */
+/* navy: #0b132a; */
+
+/* Custom Icons */
+.link-nuget {
+  background-color: #004880;
+}
+
+._index{
+  color: #004880;
+}
+.link-githubsponsor {
+  background-color: #c96198;
+}

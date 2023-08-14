@@ -1,0 +1,28 @@
+baseURL = 'https://pengmun.github.io'
+languageCode = 'en-us'
+theme = "lynx"
+title = "Peng Mun Siew"
+
+enableEmoji = true
+disableKinds = ["taxonomy", "term"]
+
+[author]
+#  name = "Lynx"
+  headline = "Hello! I'm a Research Scientist at the Astrodynamics, space Robotics, and Controls Laboratory (ARCLab) at the Massachusetts Institute of Technology. "
+  image = "author.jpeg"
+  links = [
+    { github = { href = "https://github.com/pengmun", text = "Github", icon = "github" } },
+    { researchgate = "https://www.researchgate.net/profile/Peng-Mun-Siew"},
+    { linkedin = "https://www.linkedin.com/in/pengmun" },
+  ]
+
+[markup.highlight]
+  noClasses = false
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+  unsafe = true
+
+[params]
+  keywords = "pmsiew,pengmun,software,engineer,developer,profile,learner,leader"
+  robots = "index,follow"
