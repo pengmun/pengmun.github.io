@@ -8,7 +8,7 @@ disableKinds = ["taxonomy", "term"]
 
 [author]
 #  name = "Lynx"
-  headline = "Hello! I'm a Research Scientist at the Astrodynamics, space Robotics, and Controls Laboratory (ARCLab) at the Massachusetts Institute of Technology. "
+  headline = "Hi! I'm a Research Scientist at the Astrodynamics, space Robotics, and Controls Laboratory (ARCLab) at the Massachusetts Institute of Technology. "
   image = "author.jpeg"
   links = [
     { github = { href = "https://github.com/pengmun", text = "Github", icon = "github" } },
